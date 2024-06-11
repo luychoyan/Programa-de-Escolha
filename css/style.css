@@ -1,0 +1,28 @@
+*{
+    margin: 3px;
+    padding: 3px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+#caixa-checkbox{
+    display: flex;
+    flex-direction: line;
+}
+#caixa-nomes{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#botao{
+    margin: 50px;
+    border-radius: 20%;
+    height: 70px;
+    font-size: 30px;
+}
+#resposta{
+    font-size: 30px;
+}
